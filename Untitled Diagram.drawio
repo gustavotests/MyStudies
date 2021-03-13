@@ -7,13 +7,13 @@
         <mxCell id="XxT5LB6_ZKDjMguPIREL-2" value="Test" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="140" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="XxT5LB6_ZKDjMguPIREL-3" value="+ name: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XxT5LB6_ZKDjMguPIREL-2">
+        <mxCell id="XxT5LB6_ZKDjMguPIREL-3" value="+ Name: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XxT5LB6_ZKDjMguPIREL-2">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XxT5LB6_ZKDjMguPIREL-4" value="+ email: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XxT5LB6_ZKDjMguPIREL-2">
+        <mxCell id="XxT5LB6_ZKDjMguPIREL-4" value="+ Email: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XxT5LB6_ZKDjMguPIREL-2">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XxT5LB6_ZKDjMguPIREL-5" value="+ password: String&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XxT5LB6_ZKDjMguPIREL-2">
+        <mxCell id="XxT5LB6_ZKDjMguPIREL-5" value="+ Password: String&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XxT5LB6_ZKDjMguPIREL-2">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
